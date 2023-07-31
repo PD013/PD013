@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <hl align="center">Hi👋, I'm Preet Desai</hl>
 <h3 align="center">A passionate ML developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.ytimg.com/vi/PY8f1Z3nARo/maxresdefault.jpg](https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif)">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 # 💫 About Me:
 Passionate about Machine Learning and eager to make a meaningful impact in this field. Constantly learning and exploring AI algorithms and data analysis. Excited to apply skills to real-world scenarios and contribute positively to society. Open to collaborations and discussions with like-minded individuals. Let's shape the future through Machine Learning together! 🚀😊
 
@@ -25,10 +25,4 @@ Passionate about Machine Learning and eager to make a meaningful impact in this 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PD013&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=PD013&icon=6&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
