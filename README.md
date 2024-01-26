@@ -5,6 +5,8 @@
 <h4>💫 About Me :</h4>
 Enthusiastic about Data Engineering and committed to driving impactful changes in the field. Actively learning and delving into data processing, warehousing, and ETL workflows. Eager to apply my skills to solve practical challenges and contribute effectively to the world of data. Open to collaborations and discussions with fellow data enthusiasts. Let's shape the future of Data Engineering together! 🚀😊
 
+## [![problems solved on leetcode.com](https://img.shields.io/badge/dynamic/json?style=flat-square&color=%23ffa116&label=leetcode.com&suffix=%20problems%20solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=leetcode&logoColor=yellow&labelColor=%23111827&cacheSeconds=604800)](https://leetcode.com/pd_10013)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/preet_desai710) 
