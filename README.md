@@ -53,7 +53,16 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   </p>
-  
+
+
+## 📌 Pinned Repositories
+
+<p align="left">
+  <a href="https://github.com/PD013/AirDelayAnalyzer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PD013&repo=AirDelayAnalyzer&theme=radical" />
+</p>
+
+    
 ## 📫 How to Reach Me
 
 - Email: [codewithpreet@gmail.com](mailto:codewith@gmail.com)
