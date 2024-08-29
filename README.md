@@ -10,7 +10,7 @@
 
   - 💬 Ask Me Anything (AMA):  Data, code, or just a good conversation! (Got a coding challenge for you too )
 
-  - 📫 Reach Out: codewithpreet@gmail.com
+  - 📫 Reach Out: preetdesai2024@gmail.com
 
   - ⚡ Unique Ability: I can translate between human and machine languages, but my real superpower is turning coffee into code! ☕️➡️
 
