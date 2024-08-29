@@ -65,8 +65,8 @@
     
 ## 📫 How to Reach Me
 
-- Email: [codewithpreet@gmail.com](mailto:codewith@gmail.com)
-- LinkedIn: [in/preetdesaii/](https://www.linkedin.com/in/preetdesaii/)
+- Email: [preetdesai2024@gmail.com](mailto:preetdesai2024@gmail.com)
+- LinkedIn: [in/preetdesai0/](https://www.linkedin.com/in/preetdesai0/)
   
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
