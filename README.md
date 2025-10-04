@@ -2,11 +2,9 @@
 
 ## About My Brain
 
-  - 🌱 Fueling Up On: Azure & Airflow (Building cloud castles in the sky!)
+  - 🌱 Fueling Up On: AWS & Airflow (Building cloud castles in the sky!)
 
   - 👯 Collaboration Station: Interesting Data & Automation Projects (Let's code the future!)
-
-  - 🤔 Seeking Advice: Job Hunting and Career Guidance in the Data & Cloud Frontier (Point me to the stars!)
 
   - 💬 Ask Me Anything (AMA):  Data, code, or just a good conversation! (Got a coding challenge for you too )
 
